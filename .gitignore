@@ -1,0 +1,6 @@
+code/
+docs/
+includes/
+libmysql.dll
+pcre.dll
+make.bat
